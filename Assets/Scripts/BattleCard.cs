@@ -8,7 +8,7 @@ class BattleCard
     int str;
     int def;
     int dmg;
-    int id;
+    public int id;
 
     public BattleCard()
     {
