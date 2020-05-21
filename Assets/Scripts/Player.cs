@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
 {
     BattleCard[] battleCards;
     BattleCard[] resetBattleCards;
+    // int ankh;
 
     //BattleCard(str, def, dmg)
     BattleCard c0 = new BattleCard(1, 0, 3, 0);
